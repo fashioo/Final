@@ -221,7 +221,7 @@
     display: block;
     padding: 40px 0;
     text-align: center;
-    background: #222;
+    background: #ffffff;
     transition: all 0.3s ease-in-out;
   }
   .navbar.show .menu-list {
